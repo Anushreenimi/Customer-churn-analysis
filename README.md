@@ -17,11 +17,14 @@ Our framework uses below components-
 3. Power BI: Import the data for dashboard creation and visualization.
 ## Dataset Description
 No. of rows- 7044, no. of columns-21. The dataset consists of customer information of a company like customerID,	gender,	SeniorCitizen,	Partner,	Dependents,	tenure,	PhoneService,	MultipleLines,	InternetService,	OnlineSecurity,	OnlineBackup,	DeviceProtection,	TechSupport,	StreamingTV,	StreamingMovies,	Contract,	PaperlessBilling,	PaymentMethod,	MonthlyCharges,	TotalCharges,	Churn.
+### Note: Dataset in the above Dataset Folder.
 ## Project Workflow
 ### SQL(MySQL Workbench)
-1. Created new database `Churn` in mysql workbench, after connecting to server.
-2. 
-3. 
+1. Created new database `Churn2` in mysql workbench, after connecting to server.
+2. After creating the database, imported CSV file in MySQL workbench.
+3. After importing, performed data analysis using SQL queries.
+4. 
+5. 
 
 
 
